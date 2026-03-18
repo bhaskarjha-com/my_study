@@ -1,8 +1,21 @@
 ---
-title: Consisting of info related to llm_self content like resource, courses and such
+title: Large Language Model
+description: Consisting of info related to llm_self content like resource, courses and such
 ---
 
-## Resource
+## LLM
+
+## Variations
+
+## Transformers
+
+## Pretraining
+
+## Finetuning
+
+## Evolution
+
+### Resources
 
 ### Text
 

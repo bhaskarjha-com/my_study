@@ -156,29 +156,44 @@ I begin my studies; may I always be granted success.
 
 #### agentic_ai
 
-##### agnetic_ai_self
-
-###### agentic_ai_course
-
-#### generative_ai_llm_self
-
-##### genai_course
-
 #### llm
 
-##### llm_self
+#### LLMOps/GenAI Ops
 
-###### llm_resource
+##### GenAI LifeCycle
 
-### LLMOps/AIOps
+###### Model Selection
 
-#### GenAI Benchmarking
+###### Deployment
 
-#### GenAI Deployment
+###### Serving
 
-#### GenAI Serving
+- API-based Serving
+- Streaming Responses
+- Async Inference
+- Edge Serving
 
-#### GenAI Inference
+##### GenAI Benchmarking
+
+#### Inference System
+
+##### Inference Acceleration
+
+###### Quantization
+
+###### Pruning
+
+###### Distillation
+
+###### Speculative Decoding
+
+###### KV Cache Optimization
+
+###### Batch Inference
+
+###### Continuous Batching
+
+###### Early Exit Strategies
 
 ### MLOps
 

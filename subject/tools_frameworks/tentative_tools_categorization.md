@@ -16,6 +16,10 @@
 - neovim.md
 - emacs.md
 
+##### ai_editors
+
+- antigravity.md
+
 ##### language_specific_editors
 
 - spyder.md
@@ -856,7 +860,7 @@
 - gtk.md
 - wpf.md
 - winforms.md
-- javafx.md 
+- javafx.md
 
 ## automation_testing
 

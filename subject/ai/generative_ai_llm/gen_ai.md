@@ -6,9 +6,16 @@ description: understanding generative AI, the latest trend which is encompassing
 
 ## Generattive AI- TL;DR
 
-### Definition
+### Key Info
 
+- GenAI / Gen-AI: Abbreviation of Generative AI
 - 
 
-## Foundation
+## Strucutre & Componenets
 
+- Foundation Models
+
+- Prompt Engineering
+  - [Prompt Engineering Notes](./prompt_engineering/prompt_engineering.md)
+- Large Language Model
+  - [LLM Notes](./llm/llm.md)

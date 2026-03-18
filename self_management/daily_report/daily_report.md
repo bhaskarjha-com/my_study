@@ -1,5 +1,9 @@
 # Daily report
 
+## 2026/1/6 - 2026/3/18
+
+1. Here I am after 3 months, In these months, studied fucking nothing. Did a lot of works office works, social works, responsible works, movies, times waste and what not. But study nothing. Now timesare about to change. Things have fallen in desired order.
+
 ## 2026/1/5
 
 1. Did office work, somewhat this that, used X (formarly Twitter). Other works, but study wise, I can almost nothing, not even 1 hour of productivity. From tomorrow would continue on the routine properly.
