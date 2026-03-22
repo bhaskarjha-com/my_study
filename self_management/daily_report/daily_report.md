@@ -1,5 +1,9 @@
 # Daily report
 
+## 2026/3/18 - 2026/3/22
+
+1. Till yesterday was engaged in kitchen clean, house clean, movie, and everything. So, can be said that I have wasted my time totally or utilized in stuffs which won't be considered productive for career. So, basically 4 more days. Life wasting attitude to be true. Now the new picture. From today onwards really everything figured out and setup ready, like room, food and everything almost stremlined. Means I can should work and study unimaginably. Now this documnent of daily report I will name it old and later delete it so that I can fresh start. I am also chaning the github account of this repo from hmmbhaskar@gmail.com to bhaskarjha.com@gmail.com. So bye bye this document and fresh start to new one.
+
 ## 2026/1/6 - 2026/3/18
 
 1. Here I am after 3 months, In these months, studied fucking nothing. Did a lot of works office works, social works, responsible works, movies, times waste and what not. But study nothing. Now timesare about to change. Things have fallen in desired order.
