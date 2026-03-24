@@ -1,5 +1,13 @@
 # Daily Track
 
+## 2026-03-24
+
+- In morning did started daily food receipe preparation for self, the recipe full of different types of seeds, in night full of sprounts. Still in progress. In day a lot of office work, physical office session, little bit twitter, investement related research and understanding, office works again, evening party with friends till night. Study goal wise, not much did today. Two to things have to figure and systemize in life: Gym + Hair Growth + Fooding and then keep on studying. 
+
+## 2026-03-23
+
+- Did work on finalizing one repo on GenAI, which is kind of like a crash course type, ordered, categorized repo on genai topics, the most of day spent on career on genai creation, structuring and formalization. 
+
 ## 2026-03-22
 
 - Today can be considered a new fresh restart after long term of disturbance, plan was from october but I failed myself again and again till 6 months are wasted from October 2025
