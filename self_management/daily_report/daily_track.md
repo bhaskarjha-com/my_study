@@ -1,5 +1,17 @@
 # Daily Track
 
+## 2026-03-28
+
+- Preparing content of the workshop which I have to give in the morning. 
+
+## 2026-03-27
+
+- Did Office Work. Apart couldn't do much, started on the workshop content preparation. Now also working on the same and would properly create it. Slept from evening till late night. 
+
+## 2026-03-26
+
+- Did Office Work. Since was working on hair research, so after all the research creation of protocol for self hair saving, created an project named HairStack through which anyone utilize my finalized research output and everything. Ordered many items which were essential for my food prepeation.
+
 ## 2026-03-25
 
 - Did office work, along with office work, today finalized the recipie of seeds in morning and srpouts in night. It is great recipe. Start exploring on hair in night. Did a lot work on this as well, but seems half day effort more is required to finalize my plan for hair.  
