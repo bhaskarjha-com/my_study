@@ -2,7 +2,8 @@
 
 ## 2026-03-28
 
-- Preparing content of the workshop which I have to give in the morning. 
+- Preparing content of the workshop which I have to give in the morning.
+- Today delivered the workshop, it went well. Since, i had worked whole night to prepare the content it can have. Hence, the content was solid everything worked as excpected. Soon, I would kind of convert all the three workshop content into proper structued content and publish the repo.  
 
 ## 2026-03-27
 
