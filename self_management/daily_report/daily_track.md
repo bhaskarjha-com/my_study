@@ -1,5 +1,15 @@
 # Daily Track
 
+## 2026-03-29
+
+- Perhaps wasted, no contribution on either git, and niether did any work to be quantified much. Today the earliest morning of 30th March and planning to start now. Thinking of making it routine. Wake up at 2:00 - 2:30 and start studying. Keep studying till 6:30 - 7:00 and then go for gym. After Gym again come and start studying for next 10 cycles of study atleast. This ensure gap of study as well. 
+- Today Planned works
+  - Since tracking all the account with subscription is difficult so yesterday explored various solution will try to use one of those, like onwatch being one such solution. A indie developer from India made it wow.
+  - Have properly change the hairstack configurations and all so that it can become usable. The Hosted Repo
+  - Food repo will try to look later
+  - Workshop repo need to create and then host it properly. Have got the recordings of all the three workshops given.
+  - Then go back to genai one, and start creating resume for each job role. Still my resume creation isn't finished and that's why I can't apply anywhere.
+
 ## 2026-03-28
 
 - Preparing content of the workshop which I have to give in the morning.
