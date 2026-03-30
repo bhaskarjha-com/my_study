@@ -17,7 +17,11 @@ Translation:
 > This is tentative as of now and would get updated with working studying and as things change. But overall target is to become Knowledge and Hands-On expert in Frontier AI Tech: GenAI, AgenticAI, LLMs..
 
 1. Certifications
-   1. GenAI Related Certifications: Only those that are sponsored by my organization to gain certifications as well.
+   1. GenAI Related Certifications: Only those that are sponsored by my organization to gain certifications as well. 
+      1. AWS
+         1. AI Practioner
+         2. AWS Generative AI Developer Professional
+         3. 
 2. Books
    1. - [ ] Build a Large Language Model (From Scratch)
    2. - [ ] AI Engineering
