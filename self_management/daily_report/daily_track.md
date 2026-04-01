@@ -1,5 +1,22 @@
 # Daily Track
 
+## 2026-04-01
+
+- Planned & Result
+  - Since morning most of the day went in office work, as had to deliver architecture for a project, so did most of the work on it. Meeting was at 12. And then second half relaxed, in evening house cleaned, and in night some changes to jomato android app. 
+  - Apart from this nothing else on study side. Just some helps to some people who had asked and such. 
+
+## 2026-03-31
+
+- Planned
+  - OBS studio study with me plugin.
+  - genai start, resume need to next. I can't hide behind useless and non-productive things for long. This is my weird behaviour. I keep on doing useless unproductive tasks. 
+  - Let's see resume creation is the most difficult task. But should start by today. 
+- Planned Result
+  - Yes this got created but testing still pending on the application, a much complex application have created with tons of features
+  - Not nothing progress on this front
+  - Started another project "jomato-mobile" hard fork into my hmmbhaskar github. This is a fork which helps user get the notification for food rescue deal. And I have created its hard fork to improve it like removed all the fingerprints and telemetry data, made it hard to detect by zomato that this app is like third party app, added multiple address feature, notification with proper details and many. So, basically learnt little bit on app development
+
 ## 2026-03-30
 
 - Thinking of making it routine. Wake up at 2:00 - 2:30 and start studying. Keep studying till 6:30 - 7:00 and then go for gym. After Gym again come and start studying for next 10 cycles of study atleast. This ensure gap of study as well.
