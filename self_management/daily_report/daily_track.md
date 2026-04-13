@@ -1,6 +1,23 @@
 # Daily Track
 
-## 2026-04-01
+## 2026-04-13
+
+-
+  - Complete the Genai-notes repo so that it becomes properly visible on Github Pages.
+  - Move ahead with the financial thing, perhaps solution architecture creation. 
+  - Start on the Resume Creation, socbasically my portfolio finalization and all.
+  - Do office work, which have been already doing. 
+  - 
+
+## 2026-04-02 - 2026-04-12
+
+- Planned & Result
+  - I will some of the days I was really productive, like now have already created the genai-notes, started the financial research for tool and such. 
+  - In first week (Till april 7) I was configuring and creating the OBS Studio study with me plugin, and now that can taken proper shape and even now using it. Utilizing it in the live stream, Got wifi-installed so no more data consistency issues or such. Infact streaming on three platforms all together (Youtube, Twitch, Kick). Infact have released also the latest version, plus started noting down the issues with the script for further fixes. 
+  - Next two days wasted. Basically from 8th and 9th Apr. Or basically not did much work to easily recall. Office works were also there so might have been engaged in the same. 
+  - And last 3-4 days, have been properly trying to be productive, and last two days did a lot. Properly almost finalized the genai notes repo, it's some improvements still pending. Started with financial paradigm and everything. 
+
+## 2026-04-01 - 
 
 - Planned & Result
   - Since morning most of the day went in office work, as had to deliver architecture for a project, so did most of the work on it. Meeting was at 12. And then second half relaxed, in evening house cleaned, and in night some changes to jomato android app. 
